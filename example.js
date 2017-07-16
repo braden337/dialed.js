@@ -1,4 +1,4 @@
-let Dialed = require('./Dialed')
+let Dialed = require('./index')
 
 let dollarsInCents =
   dollars => Math.round(dollars*10000)/100
