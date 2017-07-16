@@ -1,6 +1,6 @@
 {
   "name": "dialed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A testing class for ambitious functions lol",
   "main": "index.js",
   "scripts": {
